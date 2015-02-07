@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+set -e
+
+sources=$(cat ./data/sources.txt)
+
+for source in $sources; do
+    curl --silent $source >> tmp
+done;
+
+sort tmp \
+    | uniq \
+    | sed '/./,$!d' \
+    | awk '{print tolower($0)}' \
+    | comm -23 - ./data/blacklist.txt \
+    | comm -23 - ./data/disposable.txt > ./data/free.txt
+
+echo 'Complete!'

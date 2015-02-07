@@ -1,0 +1,4 @@
+.ddns.org
+.findhere.com
+.freeservers.com
+.zzn.com

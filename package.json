@@ -1,0 +1,17 @@
+{
+  "name": "freemail",
+  "version": "0.0.0",
+  "description": "A database of free and disposable email domains and a handy Node.js module for querying it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "author": "Will White <will@mapbox.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "dependencies": {
+    "tldjs": "^1.5.2"
+  }
+}
