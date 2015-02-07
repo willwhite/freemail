@@ -16,9 +16,9 @@ domains directly by opening a pull request.
 
 There are three key data files in this project:
 
-- **free.txt** contains a list of domains that are known to provide free email service
-- **disposable.txt** contains a list of domains that are known to provide disposable email add
-- **blacklist.txt** contains a list of domains that this project will refuse to add to either list
+- [free.txt](https://github.com/willwhite/freemail/blob/master/data/free.txt) contains a list of domains that are known to provide free email service
+- [disposable.txt](https://github.com/willwhite/freemail/blob/master/data/disposable.txt) contains a list of domains that are known to provide disposable email service
+- [blacklist.txt](https://github.com/willwhite/freemail/blob/master/data/blacklist.txt) contains a list of domains that this project will refuse to add to either list
 
 Domains may only be a member of one list.
 
