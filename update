@@ -9,11 +9,11 @@ for source in $sources; do
 done;
 
 cat data/free.txt tmp \
-    | sort \
-    | uniq \
     | sed '/./,$!d' \
     | sed -e 's/^ *//' -e 's/ *$//' \
     | awk '{print tolower($0)}' \
+    | sort \
+    | uniq \
     | comm -23 - ./data/blacklist.txt \
     | comm -23 - ./data/disposable.txt > ./data/free.txt
 
