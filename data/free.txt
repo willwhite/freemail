@@ -484,7 +484,6 @@ collegemail.com
 colleges.com
 columbus.rr.com
 columbusrr.com
-columbusrr.comhitmail.com
 columnist.com
 comast.com
 comast.net
@@ -3350,6 +3349,7 @@ sialkotoye.com
 sify.com
 silkroad.net
 sina.cn
+sina.com
 sinamail.com
 singapore.com
 singles4jesus.com
@@ -3985,9 +3985,3 @@ zybermail.com
 zydecofan.com
 zzn.com
 zzom.co.uk
-zzom.co.uk0-mail.com
-zzom.co.uk1033edge.com
-zzom.co.ukgmail.com
-zzom.co.ukhitmail.com
-zzom.co.ukoutlook.com
-zzom.co.uksina.com
