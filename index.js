@@ -20,5 +20,5 @@ function isDisposable(email) {
 
 module.exports = {
     isFree: isFree,
-    isDisposible: isDisposable
+    isDisposable: isDisposable
 };
