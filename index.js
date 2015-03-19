@@ -6,7 +6,6 @@ var free = fs.readFileSync(__dirname + '/data/free.txt').toString().split('\n').
 
 function isFree(email) {
     if (typeof email !== 'string') throw new TypeError('email must be a string');
-    console.log(email);
     var domain = tldjs.getDomain(email.split('@').pop());
     return free.indexOf(domain) !== -1;
 }
