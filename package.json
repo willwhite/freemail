@@ -11,6 +11,10 @@
   "devDependencies": {
     "tape": "^3.5.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/willwhite/freemail.git"
+  },
   "dependencies": {
     "tldjs": "^1.5.2"
   }
