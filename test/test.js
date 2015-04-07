@@ -21,12 +21,12 @@ test('mailinater.com should be free', function(t) {
     t.equal(freemail.isFree('smith@mailinater.com'), true);
 });
 
-test('mailinater.com should be disposible', function(t) {
+test('mailinater.com should be disposable', function(t) {
     t.plan(1);
-    t.equal(freemail.isDisposible('smith@mailinater.com'), true);
+    t.equal(freemail.isDisposable('smith@mailinater.com'), true);
 });
 
-test('gmail.com should not be disposible', function(t) {
+test('gmail.com should not be disposable', function(t) {
     t.plan(1);
-    t.equal(freemail.isDisposible('smith@gmail.com'), false);
+    t.equal(freemail.isDisposable('smith@gmail.com'), false);
 });
