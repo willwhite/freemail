@@ -185,6 +185,7 @@ austin.rr.com
 australia.edu
 australiamail.com
 autoescuelanerja.com
+autograf.pl
 autorambler.ru
 avh.hu
 awsom.net
@@ -2757,13 +2758,17 @@ omaninfo.com
 omen.ru
 onebox.com
 onenet.com.ar
+onet.com.pl
+onet.eu
 onet.pl
 oninet.pt
 online.ie
 onlinewiz.com
 onmilwaukee.com
 onobox.com
+op.pl
 operamail.com
+opoczta.pl
 optician.com
 optonline.net
 optusnet.com.au
@@ -2839,6 +2844,7 @@ plusmail.com.br
 pobox.sk
 pochta.ru
 poczta.fm
+poczta.onet.pl
 poetic.com
 polandmail.com
 polbox.com
@@ -3107,6 +3113,7 @@ sperke.net
 spils.com
 spinfinder.com
 spl.at
+spoko.pl
 sportemail.com
 sportsmail.com
 sporttruckdriver.com
@@ -3361,6 +3368,7 @@ vip.126.com
 vip.21cn.com
 vip.citiz.net
 vip.gr
+vip.onet.pl
 vip.qq.com
 vip.sina.com
 vipmail.ru
@@ -3384,6 +3392,7 @@ vote-hillary.com
 vote-republicans.com
 vote4gop.org
 votenet.com
+vp.pl
 vr9.com
 w3.to
 wahoye.com
