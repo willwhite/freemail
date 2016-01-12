@@ -1146,6 +1146,7 @@ liquidinformation.net
 list.ru
 listomail.com
 littleblueroom.com
+live.cn
 live.co.uk
 live.com
 live.com.au
@@ -2599,6 +2600,7 @@ movemail.com
 movieluver.com
 mp4.it
 mr-potatohead.com
+msn.cn
 msn.com
 mttestdriver.com
 munich.com
@@ -2868,6 +2870,7 @@ put2.net
 q.com
 qmail.com
 qprfans.com
+qq.com
 quackquack.com
 quakemail.com
 qualityservice.com
@@ -3328,6 +3331,7 @@ vip.126.com
 vip.21cn.com
 vip.citiz.net
 vip.gr
+vip.qq.com
 vip.sina.com
 vipmail.ru
 virgilio.it
