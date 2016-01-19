@@ -1,6 +1,6 @@
 {
   "name": "freemail",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A database of free and disposable email domains and a handy Node.js module for querying it.",
   "main": "index.js",
   "scripts": {
