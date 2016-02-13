@@ -668,7 +668,7 @@ fastest.cc
 fastimap.com
 fastkawasaki.com
 fastmail.ca
-ail.cn
+fastmail.cn
 fastmail.com
 fastmail.co.uk
 fastmail.com.au
