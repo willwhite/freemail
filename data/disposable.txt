@@ -30,7 +30,6 @@ brefmail.com
 bsnow.net
 bspamfree.org
 bugmenot.com
-byom.de
 casualdx.com
 centermail.com
 centermail.net
@@ -210,7 +209,6 @@ privacy.net
 proxymail.eu
 prtnx.com
 putthisinyourspamdatabase.com
-qq.com
 quickinbox.com
 rcpt.at
 recode.me
