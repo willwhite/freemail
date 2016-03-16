@@ -5,7 +5,7 @@
 A database of free and [disposable](http://en.wikipedia.org/wiki/Disposable_email_address)
 email domains and a handy Node.js module for querying it.
 
-Use the Node.js module or access the files in the `./data` directory and parse
+Install via npm or pip or access the files in the `./data` directory and parse
 with your language of choice.
 
 In an effort to create the most up-to-date list of domains, the database can be
@@ -48,4 +48,24 @@ freemail.isDisposable('smith@gmail.com');
 freemail.isDisposable('jack@mailinater.com');
 > true
 
+```
+
+## Python
+
+### Install
+
+```
+pip install freemail
+```
+
+```python
+>>> import freemail
+>>> freemail.is_free('jack@mailinater.com')
+True
+>>> freemail.is_free('jack@mailinater.com')
+True
+>>> freemail.is_disposable('smith@gmail.com')
+False
+>>> freemail.is_disposable('jack@mailinater.com')
+True
 ```
