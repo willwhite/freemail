@@ -669,6 +669,7 @@ fastimap.com
 fastkawasaki.com
 fastmail.ca
 fastmail.cn
+fastmail.com
 fastmail.co.uk
 fastmail.com.au
 fastmail.es
