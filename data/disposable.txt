@@ -4,7 +4,6 @@
 0wnd.org
 10minutemail.com
 20minutemail.com
-21cn.com
 2prong.com
 30minutemail.com
 33mail.com
@@ -210,7 +209,6 @@ privacy.net
 proxymail.eu
 prtnx.com
 putthisinyourspamdatabase.com
-qq.com
 quickinbox.com
 rcpt.at
 recode.me
