@@ -16,7 +16,19 @@ function isDisposable(email) {
     return disposable.indexOf(domain) !== -1;
 }
 
+// Return a copy of the full list domains serving free email accounts, including disposable email accounts
+function freeList() {
+  return free.slice();
+}
+
+// Return a copy of the full list of domains serving disposable email accounts
+function disposableList() {
+  return disposable.slice();
+}
+
 module.exports = {
     isFree: isFree,
-    isDisposable: isDisposable
+    isDisposable: isDisposable,
+    freeList: freeList,
+    disposableList: disposableList
 };
