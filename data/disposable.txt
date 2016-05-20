@@ -19,7 +19,6 @@ anonymbox.com
 antichef.com
 antichef.net
 antispam.de
-armyspy.com 
 baxomale.ht.cx
 beefmilk.com
 binkmail.com
@@ -56,6 +55,7 @@ discardmail.com
 discardmail.de
 disposableaddress.com
 dispostable.com
+divismail.ru
 dodgeit.com
 dodgit.com
 donemail.ru
@@ -66,7 +66,6 @@ dumpandjunk.com
 e-mail.com
 e-mail.org
 e4ward.com
-einrot.com
 email60.com
 emailias.com
 emailmiser.com
@@ -78,11 +77,11 @@ emailx.at.hm
 emailxfer.com
 emz.net
 explodemail.com
+extremail.ru
 fakeinbox.com
 fakeinformation.com
 fantasymail.de
 filzmail.com
-fleckens.hu
 frapmail.com
 fuckingduh.com
 fudgerub.com
@@ -103,7 +102,6 @@ guerrillamail.info
 guerrillamail.net
 guerrillamail.org
 guerrillamailblock.com
-gustr.com
 haltospam.com
 hatespam.org
 hidemail.de
@@ -119,14 +117,15 @@ jetable.com
 jetable.fr.nf
 jetable.net
 jetable.org
-jourrapide.com
 kasmail.com
 kaspop.com
 killmail.com
 killmail.net
 klassmaster.com
+kismail.ru
 klzlk.com
 kurzepost.de
+leeching.net
 lhsdv.com
 lifebyfood.com
 link2mail.net
@@ -167,7 +166,6 @@ meinspamschutz.de
 meltmail.com
 messagebeamer.de
 mintemail.com
-mohmal.com
 moncourrier.fr.nf
 monemail.fr.nf
 monmail.fr.nf
@@ -218,7 +216,6 @@ quickinbox.com
 rcpt.at
 recode.me
 recursor.net
-rhyta.com
 rtrtr.com
 s0ny.net
 safe-mail.net
@@ -273,11 +270,9 @@ speed.1s.fr
 super-auswahl.de
 supergreatmail.com
 supermailer.jp
-superrito.com
 suremail.info
 teewars.org
 teleworm.com
-teleworm.us
 temp-mail.org
 tempe-mail.com
 tempemail.com
