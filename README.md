@@ -49,3 +49,7 @@ freemail.isDisposable('jack@mailinater.com');
 > true
 
 ```
+
+## Other
+
+- [freemail-cli](https://github.com/danielstjules/freemail-cli) is a CLI tool for filtering free and disposable emails
