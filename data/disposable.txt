@@ -121,6 +121,7 @@ killmail.com
 killmail.net
 klassmaster.com
 klzlk.com
+koszmail.pl
 kurzepost.de
 lhsdv.com
 lifebyfood.com
@@ -136,6 +137,7 @@ mailbidon.com
 mailblocks.com
 mailbucket.org
 mailcatch.com
+maildrop.cc
 mailexpire.com
 mailfreeonline.com
 mailin8r.com
@@ -232,6 +234,7 @@ sneakemail.com
 sofimail.com
 sogetthis.com
 soodonims.com
+spam4.me
 spambob.net
 spambog.com
 spambog.de
