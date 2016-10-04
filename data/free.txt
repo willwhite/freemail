@@ -560,6 +560,7 @@ dutchmail.com
 dwp.net
 dyndns.org
 e-apollo.lv
+e-mail.com.tr
 e-mail.dk
 e-mail.ru
 e-mail.ua
@@ -868,6 +869,7 @@ gci.net
 geecities.com
 geek.com
 geeklife.com
+gencmail.com
 gentlemansclub.de
 geocities.com
 geography.net
@@ -1005,6 +1007,7 @@ hush.com
 hushmail.com
 hypernautica.com
 i-connect.com
+ilkposta.com
 i-mail.com.au
 i-p.com
 i.am
@@ -1268,6 +1271,7 @@ lycos.co.uk
 lycos.com
 lycos.es
 lycos.ne.jp
+mail.com.tr
 m-hmail.com
 m4.org
 mac.com
@@ -2721,6 +2725,7 @@ mygo.com
 myiris.com
 mymacmail.com
 mynamedot.com
+mynet.com
 mynetaddress.com
 myownemail.com
 mypad.com
@@ -2779,6 +2784,7 @@ netscape.net
 netspace.net.au
 netster.com
 nettaxi.com
+nettemail.com
 netterchef.de
 netzero.com
 netzero.net
@@ -3104,6 +3110,7 @@ runbox.com
 rushpost.com
 ruttolibero.com
 rvshop.com
+seckinmail.com
 s-mail.com
 sacbeemail.com
 saeuferleber.de
