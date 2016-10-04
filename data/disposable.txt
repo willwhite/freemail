@@ -55,6 +55,7 @@ discardmail.com
 discardmail.de
 disposableaddress.com
 dispostable.com
+divismail.ru
 dodgeit.com
 dodgit.com
 donemail.ru
@@ -76,6 +77,7 @@ emailx.at.hm
 emailxfer.com
 emz.net
 explodemail.com
+extremail.ru
 fakeinbox.com
 fakeinformation.com
 fantasymail.de
@@ -120,8 +122,10 @@ kaspop.com
 killmail.com
 killmail.net
 klassmaster.com
+kismail.ru
 klzlk.com
 kurzepost.de
+leeching.net
 lhsdv.com
 lifebyfood.com
 link2mail.net
@@ -162,7 +166,6 @@ meinspamschutz.de
 meltmail.com
 messagebeamer.de
 mintemail.com
-mohmal.com
 moncourrier.fr.nf
 monemail.fr.nf
 monmail.fr.nf
