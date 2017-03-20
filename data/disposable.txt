@@ -32,6 +32,7 @@ bugmenot.com
 casualdx.com
 centermail.com
 centermail.net
+chammy.info
 chogmail.com
 choicemail1.com
 cool.fr.nf
@@ -131,6 +132,7 @@ koszmail.pl
 kurzepost.de
 lackmail.ru
 leeching.net
+letthemeatspam.com
 lhsdv.com
 lifebyfood.com
 link2mail.net
@@ -222,7 +224,9 @@ prtnx.com
 putthisinyourspamdatabase.com
 quickinbox.com
 rcpt.at
+reallymymail.com
 recode.me
+reconmail.com
 recursor.net
 rtrtr.com
 s0ny.net
@@ -230,6 +234,7 @@ safe-mail.net
 safersignup.de
 safetymail.info
 safetypost.de
+sendspamhere.com
 senseless-entertainment.com
 sharklasers.com
 shiftmail.com
@@ -248,6 +253,7 @@ spambob.net
 spambog.com
 spambog.de
 spambog.ru
+spambooger.com
 spambox.info
 spambox.us
 spamcannon.com
@@ -266,6 +272,7 @@ spamfree24.org
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
+spamherelots.com
 spamhereplease.com
 spamhole.com
 spamify.com
@@ -275,7 +282,9 @@ spamobox.com
 spamslicer.com
 spamspot.com
 spamthis.co.uk
+spamthisplease.com
 speed.1s.fr
+streetwisemail.com
 super-auswahl.de
 supergreatmail.com
 supermailer.jp
@@ -321,6 +330,7 @@ tyldd.com
 uggsrock.com
 upliftnow.com
 venompen.com
+veryrealemail.com
 wegwerfadresse.de
 wegwerfemail.com
 wegwerfemail.de
