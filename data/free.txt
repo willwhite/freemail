@@ -74,6 +74,7 @@
 8mail.ml
 97rock.com
 99experts.com
+a1.net
 a45.in
 aaamail.zzn.com
 aamail.net
@@ -179,6 +180,7 @@ antispam24.de
 anymoment.com
 anytimenow.com
 aol.com
+aon.at
 apexmail.com
 apmail.com
 apollo.lv
@@ -3792,6 +3794,7 @@ technisamail.co.za
 technologist.com
 techscout.com
 techspot.com
+tele2.at
 tele2.nl
 telebot.com
 teleline.es
@@ -3997,6 +4000,7 @@ username.e4ward.com
 usma.net
 usmc.net
 uswestmail.net
+utanet.at
 uymail.com
 uyuyuy.com
 vaasfc4.tk
