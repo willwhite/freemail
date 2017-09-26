@@ -10,7 +10,11 @@ var sha1Domains = fs.readFileSync(__dirname+ "/data/mailinator_sha1.txt").toStri
 
 function isFree(email) {
     if (typeof email !== 'string') throw new TypeError('email must be a string');
-    var domain = tldjs.getDomain(email.split('@').pop());
+    var rawDomain = email.split('@').pop();
+    var formattedDomain = tldjs.getDomain(rawDomain);
+
+    var domain = (formattedDomain) ? formattedDomain : rawDomain;
+
     return (withTrDomains.indexOf(domain) !== -1 || _isInShaDomains(domain));
 }
 
