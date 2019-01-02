@@ -2,7 +2,7 @@ import os
 
 FREE_EMAIL_BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-full_free_email_list = []
+full_free_email_list = set()
 
 
 def populate_free_email_list():
@@ -20,11 +20,14 @@ def populate_free_email_list():
             for line in f.readlines():
                 if line.startswith('.'):
                     line = line[1:]
-                full_free_email_list.append(line.strip())
+                full_free_email_list.add(line.strip())
 
 
 def is_free_email(email_address):
     global full_free_email_list
     populate_free_email_list()
-    matches = filter(str(email_address).endswith, full_free_email_list)
-    return len(matches) > 0
+    split = str(email_address).split("@")
+    if len(split) != 2:
+        # this is not even an email
+        return False
+    return split[1] in full_free_email_list
