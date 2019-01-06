@@ -1,0 +1,7 @@
+README.md
+freemail/__init__.py
+freemail/search.py
+freemail.egg-info/PKG-INFO
+freemail.egg-info/SOURCES.txt
+freemail.egg-info/dependency_links.txt
+freemail.egg-info/top_level.txt
