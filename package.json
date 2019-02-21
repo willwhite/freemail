@@ -9,7 +9,7 @@
   "author": "Will White <will@mapbox.com>",
   "license": "ISC",
   "devDependencies": {
-    "tape": "^3.5.0"
+    "tape": "^4.10.1"
   },
   "repository": {
     "type": "git",
