@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 set -e
+export LC_CTYPE=C
 
 tmp=$(mktemp -t freemailXXX)
 cat ./data/blacklist.txt \
