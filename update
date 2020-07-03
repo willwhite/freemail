@@ -18,6 +18,7 @@ curl --silent https://raw.githubusercontent.com/ivolo/disposable-email-domains/m
 
 tmp=$(mktemp -t freemailXXX)
 cat $new ./data/disposable.txt \
+    | sed '/^$/d' \
     | sed '/./,$!d' \
     | sed -e 's/^ *//' -e 's/ *$//' \
     | awk '{print tolower($0)}' \
@@ -34,6 +35,7 @@ done;
 
 tmp=$(mktemp -t freemailXXX)
 cat $new ./data/free.txt \
+    | sed '/^$/d' \
     | sed '/./,$!d' \
     | sed -e 's/^ *//' -e 's/ *$//' \
     | awk '{print tolower($0)}' \
