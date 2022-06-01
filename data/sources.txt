@@ -11,3 +11,4 @@ https://gist.githubusercontent.com/rasmussvanejensen/3a361d113864ef35eafb/raw/fr
 https://gist.githubusercontent.com/adamloving/4677212/raw/common-email-providers.txt
 https://raw.githubusercontent.com/aaronbassett/DisposableEmailChecker/master/disposable_email_domains.txt
 https://raw.githubusercontent.com/tarr11/Webmail-Domains/master/domains.txt
+https://gist.githubusercontent.com/tbrianjones/5992856/raw/93213efb652749e226e69884d6c048e595c1280a/free_email_provider_domains.txt
