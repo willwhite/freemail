@@ -26,3 +26,8 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+index.jscoverage
+index.d.ts
+**/index.js
+index.js

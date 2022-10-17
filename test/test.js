@@ -1,5 +1,5 @@
-var test = require('tape');
-var freemail = require('..');
+const test = require('tape');
+const freemail = require('..');
 
 test('gmail.com should be free', function(t) {
     t.plan(1);

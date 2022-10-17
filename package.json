@@ -4,18 +4,30 @@
   "description": "A database of free and disposable email domains and a handy Node.js module for querying it.",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/test.js"
+    "test": "tsc && tape test/test.js"
   },
   "author": "Will White <will@mapbox.com>",
+  "contributors": [
+    "David Papp <oss@persio.io>"
+  ],
   "license": "ISC",
   "devDependencies": {
-    "tape": "^4.10.1"
+    "@types/node": "18.11.0",
+    "@types/tldjs": "2.3.1",
+    "@typescript-eslint/eslint-plugin": "5.13.0",
+    "@typescript-eslint/parser": "5.0.0",
+    "esbuild": "0.15.11",
+    "eslint": "8.25.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-config-airbnb-typescript": "17.0.0",
+    "tape": "5.6.1",
+    "typescript": "4.8.4"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/willwhite/freemail.git"
+    "url": "git://github.com/getpersio/freemail.git"
   },
   "dependencies": {
-    "tldjs": "^1.5.2"
+    "tldjs": "1.5.2"
   }
 }
