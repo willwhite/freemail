@@ -14,10 +14,11 @@ domains directly by opening a pull request.
 
 ## Database
 
-There are three key data files in this project:
+There are four key data files in this project:
 
 - [free.txt](https://github.com/willwhite/freemail/blob/master/data/free.txt) contains a list of domains that are known to provide free email service
 - [disposable.txt](https://github.com/willwhite/freemail/blob/master/data/disposable.txt) contains a list of domains that are known to provide disposable email service
+- [reserved.txt](https://github.com/willwhite/freemail/blob/master/data/reserved.txt) contains [IANA reserved and special-use domains](http://www.iana.org/domains/reserved) that should not be used for real email
 - [blacklist.txt](https://github.com/willwhite/freemail/blob/master/data/blacklist.txt) contains a list of domains that this project will refuse to add to either list
 
 Domains may only be a member of one list.
@@ -47,6 +48,10 @@ freemail.isDisposable('smith@gmail.com');
 > false
 freemail.isDisposable('jack@mailinater.com');
 > true
+freemail.isReserved('smith@example.com');
+> true
+freemail.isReserved('smith@gmail.com');
+> false
 
 ```
 

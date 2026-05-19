@@ -30,3 +30,23 @@ test('gmail.com should not be disposable', function(t) {
     t.plan(1);
     t.equal(freemail.isDisposable('smith@gmail.com'), false);
 });
+
+test('example.com should be reserved', function(t) {
+    t.plan(1);
+    t.equal(freemail.isReserved('smith@example.com'), true);
+});
+
+test('localhost should be reserved', function(t) {
+    t.plan(1);
+    t.equal(freemail.isReserved('localhost'), true);
+});
+
+test('foo.test should be reserved via reserved tld', function(t) {
+    t.plan(1);
+    t.equal(freemail.isReserved('smith@foo.test'), true);
+});
+
+test('gmail.com should not be reserved', function(t) {
+    t.plan(1);
+    t.equal(freemail.isReserved('smith@gmail.com'), false);
+});
